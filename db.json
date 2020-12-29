@@ -1,4 +1,4 @@
-[{
+{data: [{
     "id": 1,
     "name": "Divavu",
     "startDate": "9/19/2017",
@@ -69,3 +69,4 @@
     "Budget": 505602,
     "userId": 8
 }]
+}
